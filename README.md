@@ -4,4 +4,4 @@
 
 
 
-[https://uidesigndaily-exercises-day1088-serhatyurdakul.vercel.app/]{https://uidesigndaily-exercises-day1088-serhatyurdakul.vercel.app/}
+[https://uidesigndaily-exercises-day1088-serhatyurdakul.vercel.app/](https://uidesigndaily-exercises-day1088-serhatyurdakul.vercel.app/)
